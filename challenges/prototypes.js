@@ -17,7 +17,7 @@ function CuboidMaker(length,width,height){
   Formula for cuboid volume: length * width * height
 */
 CuboidMaker.prototype.volume =function(){
-  
+  volume =(length * width * height)
 }
 
 /* == Step 3: Surface Area Method ==
